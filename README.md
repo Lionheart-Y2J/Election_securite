@@ -2,6 +2,8 @@
 
 Ce projet implémente un système de vote électronique utilisant le chiffrement homomorphe de Paillier. Il comprend un serveur, un client de vote et une interface administrateur.
 
+Réalisé en Collaboration avec d'autres étudiants de la Licence Informatique et Vidéoludisme de Paris 8
+
 ## Prérequis
 
 - Python 3.8 ou supérieur
